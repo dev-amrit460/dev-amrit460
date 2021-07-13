@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amrit-raj-ba2a15190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amrit-raj-ba2a15190/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/people/Amrit-Sharma/100040989315100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/amrit-sharma/100040989315100/" height="30" width="40" /></a>
-<a href="https://instagram.com/amrit_sharma_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amrit_sharma_45" height="30" width="40" /></a>
-<a href="https://discord.gg/8duPMMPkW3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8duPMMPkW3" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dev-amrit460" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amrit-raj-ba2a15190/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Amrit-Sharma/100040989315100/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/amrit-sharma/100040989315100/" height="30" width="40" /></a>
+<a href="https://instagram.com/amrit_sharma_45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amrit_sharma_45" height="30" width="40" /></a>
+<a href="https://discord.gg/8duPMMPkW3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8duPMMPkW3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
