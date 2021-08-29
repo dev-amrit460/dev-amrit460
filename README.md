@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrit Raj</h1>
-<h3 align="center">A passionate frontend developer from Patna(India).</h3>
+<h3 align="center">A passionate frontend developer and coder from Patna (India).</h3>
 
 - 🔭 I’m currently working on [NITP Official Website](https://beta.nitp.ac.in/)
 
