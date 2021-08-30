@@ -1,5 +1,5 @@
 <h2 align="center">👋<br/>Hi, I'm Amrit</h2>
-<h3 align="center">A passionate frontend developer and coder from Patna (India).</h3>
+<h3 align="center">A passionate web developer and coder from Patna (India).</h3>
 
 - 🔭 I’m currently working on [NITP Official Website](https://beta.nitp.ac.in/)
 
