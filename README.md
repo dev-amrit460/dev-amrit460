@@ -1,6 +1,6 @@
 <h2 align="center">👋<br/>Hi, I'm Amrit</h2>
 <h3 align="left">A passionate web developer and coder from Patna (India).</h3>
-<img src = 'https://exentai.com/wp-content/themes/exentai/img/1.gif' width="375" alt = 'img' align='right'/>
+<img src = 'https://exentai.com/wp-content/themes/exentai/img/1.gif' width="300" alt = 'img' align='right'/>
 
 - 🔭 I’m currently working on [NITP Official Website](https://beta.nitp.ac.in/)
 
