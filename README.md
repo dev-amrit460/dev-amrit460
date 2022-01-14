@@ -5,7 +5,7 @@
 <h3 align="left">A passionate web developer and coder from Patna (India).</h3>
 <!-- <img src = 'https://exentai.com/wp-content/themes/exentai/img/1.gif' width="300" alt = 'img' align='right'/> -->
 <!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 - 🔭 I’m currently working on [NITP Official Website](https://beta.nitp.ac.in/)
 
