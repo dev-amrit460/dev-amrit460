@@ -18,8 +18,8 @@
 - ⚡ Fun fact **I love watching k-drama**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amrit460&" alt="dev-amrit460"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-amrit460&show_icons=true&locale=en" alt="dev-amrit460"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amrit460&layout=compact&hide=html" alt="dev-amrit460"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-amrit460&show_icons=true&locale=en&hide_title=true" alt="dev-amrit460"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amrit460&layout=compact&hide=html&hide_title=true" alt="dev-amrit460"/></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amrit460&" alt="dev-amrit460" /></p> -->
 
 <h3 align="left">Connect with me:</h3>
