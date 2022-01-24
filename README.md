@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [NITP Official Website](https://beta.nitp.ac.in/)
 
-- 🌱 I’m currently learning **ML**
+<!-- - 🌱 I’m currently learning **ML** -->
 
 - 👨‍💻 All of my projects are available [here](https://dev-amrit460.github.io/)
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1iFytXVfABlBWNZH6zYX5QbouSqOQ0t_y/view?usp=sharing)
