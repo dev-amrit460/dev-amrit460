@@ -15,8 +15,6 @@
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1iFytXVfABlBWNZH6zYX5QbouSqOQ0t_y/view?usp=sharing)
 - 📫 How to reach me **amrit.mentors@gmail.com**
 
-- ⚡ Fun fact **I love watching k-drama**
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amrit460&" alt="dev-amrit460"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-amrit460&show_icons=true&locale=en&hide_title=true" alt="dev-amrit460"/></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amrit460&layout=compact&hide=html&hide_title=true" alt="dev-amrit460"/></p> -->
