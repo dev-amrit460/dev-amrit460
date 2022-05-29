@@ -7,13 +7,13 @@
 <!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
-- 🔭 I’m currently working on [NITP Official Website](https://beta.nitp.ac.in/)
+- 🔭 I have developed most of the frontend and backend parts of [NITP Official Website](https://beta.nitp.ac.in/)
 
-<!-- - 🌱 I’m currently learning **ML** -->
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 Description of some of my projects are available [here](https://dev-amrit460.github.io/)
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1iFytXVfABlBWNZH6zYX5QbouSqOQ0t_y/view?usp=sharing)
-- 📫 How to reach me **amrit.mentors@gmail.com**
+- 📫 How to reach me **amrit.nitp.460@gmail.com**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amrit460&" alt="dev-amrit460"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-amrit460&show_icons=true&locale=en&hide_title=true" alt="dev-amrit460"/></p>
