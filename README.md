@@ -11,7 +11,7 @@
 - 👨‍💼 I work at [C-DOT](https://www.cdot.in/)
 - 🌱 I’m currently learning **ML**
 
-- 🔭 I have developed most of the frontend and backend parts of [NITP Official Website](https://beta.nitp.ac.in/)
+- 🔭 I have developed most of the frontend and backend parts of [NITP Official Website](https://www.nitp.ac.in/)
 
 - 👨‍💻 Description of some of my projects are available [here](https://dev-amrit460.github.io/)
 - 📄 Know more about my [experiences](https://drive.google.com/file/d/1iFytXVfABlBWNZH6zYX5QbouSqOQ0t_y/view?usp=sharing)
