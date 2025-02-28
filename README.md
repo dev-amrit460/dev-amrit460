@@ -2,14 +2,14 @@
   Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<h3 align="left">A passionate developer and coder from Patna (India).</h3>
+<h3 align="left">A passionate developer from Patna (India).</h3>
 
 <!-- <img src = 'https://exentai.com/wp-content/themes/exentai/img/1.gif' width="300" alt = 'img' align='right'/> -->
 <!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 - 👨‍💼 I work at [C-DOT](https://www.cdot.in/)
-- 🌱 I’m currently learning **ML**
+<!-- - 🌱 I’m currently learning **ML** -->
 
 - 🔭 I have developed most of the frontend and backend parts of [NITP Official Website](https://www.nitp.ac.in/)
 
